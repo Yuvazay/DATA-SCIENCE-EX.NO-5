@@ -1,6 +1,4 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-NAME: YUVASHREE S
-REG.NO:212223040251
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
